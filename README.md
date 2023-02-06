@@ -15,6 +15,4 @@
 * [React](https://uk.reactjs.org/)
 * [Bootstrap](https://getbootstrap.com/)
 
-## Try it
 
-[Employees App](https://andreyluchko.github.io/React_Employees_app/)
